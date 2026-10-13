@@ -1,0 +1,3 @@
+The lines count of sample.txt is 2
+The words count of sample.txt is 17
+The characters count of sample.txt is 72
